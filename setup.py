@@ -23,7 +23,7 @@ CLASSIFIERS = [
 ]
 
 setup(
-    name='django-template-mail',
+    name='tdowns-template-mail',
     version='0.1',
     packages=find_packages(),
     author='Benoît Bar',
